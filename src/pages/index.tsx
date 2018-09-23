@@ -54,6 +54,7 @@ export default function IndexPage({ data }) {
         description="Registration Issue is the Daily Bruin's first issue of the new school year. Here's what you missed this summer, what's to come and more. Welcome back to UCLA."
         url="features.dailybruin.com/2018/registration-issue"
         twitter="@dailybruin"
+        image={require('../images/social.png')}
       />
       <CoverAnimation />
       <div
