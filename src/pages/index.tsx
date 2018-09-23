@@ -51,7 +51,7 @@ export default function IndexPage({ data }) {
     <>
       <Head
         title="Registration Issue 2018 | The Daily Bruin"
-        description=""
+        description="Registration Issue is the Daily Bruin's first issue of the new school year. Here's what you missed this summer, what's to come and more. Welcome back to UCLA."
         url="features.dailybruin.com/2018/registration-issue"
         twitter="@dailybruin"
       />
@@ -67,7 +67,9 @@ export default function IndexPage({ data }) {
         <p
           className={css`
             text-align: center;
-            margin: 1rem 8rem;
+            margin: 1rem 0;
+            padding: 0 0.4rem;
+            max-width: 750px;
             font-size: 1.2rem;
           `}
           id="explainer"
