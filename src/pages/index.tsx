@@ -67,7 +67,7 @@ export default function IndexPage({ data }) {
         <p
           className={css`
             text-align: center;
-            margin: 1rem 0;
+            margin: 1rem auto;
             padding: 0 0.4rem;
             max-width: 750px;
             font-size: 1.2rem;
