@@ -4,6 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Gatsby Default Starter',
   },
+  pathPrefix: '/2018/registration-issue',
   plugins: [
     'gatsby-plugin-typescript',
     'gatsby-plugin-react-helmet',
