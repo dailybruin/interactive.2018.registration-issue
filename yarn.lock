@@ -836,9 +836,9 @@
     lodash "^4.17.10"
     to-fast-properties "^2.0.0"
 
-"@dailybruin/lux@^1.0.2":
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/@dailybruin/lux/-/lux-1.0.2.tgz#4d1a3339d081fb797b8b6f1c1afc2759ed333315"
+"@dailybruin/lux@^1.0.3":
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/@dailybruin/lux/-/lux-1.0.3.tgz#218bdc06c4335a6fe198fd4b007781200ccd5f76"
   dependencies:
     "@fortawesome/fontawesome-svg-core" "^1.2.4"
     "@fortawesome/free-solid-svg-icons" "^5.3.1"

@@ -8,7 +8,7 @@
     "build": "gatsby build"
   },
   "dependencies": {
-    "@dailybruin/lux": "^1.0.2",
+    "@dailybruin/lux": "^1.0.3",
     "@fortawesome/fontawesome-svg-core": "^1.2.4",
     "@fortawesome/free-solid-svg-icons": "^5.3.1",
     "@fortawesome/react-fontawesome": "^0.1.3",
